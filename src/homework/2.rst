@@ -1,0 +1,16 @@
+Homework 2 
+##########
+
+:date: 2012-11-29
+:summary: diagnostic assignment
+:tags: algebra, review
+
+1. From the book, Chapter 1 Summary and Concept Review, pages 71 - 74:
+
+   # 1, 3, 5, 9, 15, 17, 19, 21, 51, 55, 57
+
+2. Notes:  Treat this assignment like a test  -- try to answer as much as possible without looking up concepts in the book.  This will help you identify topics you need to review as we move into new material.
+
+3. Instructions:  All homework assignments are due on the class day given in the assignment description -- so Homework 2 is due in class on Day 2, HW 3 will be due on Day 3, etc.  Please complete all assignments on paper (unless instructed otherwise), and turn them in at the BEGINNING of class each day.
+
+

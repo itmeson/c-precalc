@@ -6,7 +6,7 @@ SITENAME = u"Precalculus"
 SITEURL = 'http://markbetnel.com/precalc'
 
 TIMEZONE = 'America/New_York'
-
+GOOGLE_ANALYTICS = "UA-20141547-1"
 DEFAULT_LANG='en'
 
 # Blogroll

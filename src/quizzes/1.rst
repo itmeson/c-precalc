@@ -1,0 +1,18 @@
+Quiz 1 
+######
+
+:date: 2012-11-28 
+:category: quizzes
+:tags: BI.2, C.1 
+:status: draft
+
+
+1. What values of $x$ are possible inputs to the function $f(x) = \\sqrt{x + 2}$?  What are the possible outputs of this function?
+  
+
+2. Give another function that has the same set of possible inputs, but a different set of possible outputs.
+
+
+3. Give another function that has the same set of possible outputs, but a different set of possible inputs.
+ 
+ 
