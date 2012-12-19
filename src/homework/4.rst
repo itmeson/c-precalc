@@ -1,0 +1,14 @@
+Homework 4 
+##########
+
+:date: 2012-12-10
+:summary: Composition of functions
+:tags: C.1, C.2 
+
+1. From the book, Section 2.8: #35, 37, 49, 51, 55, 59, 61, 71, 89
+
+2. Notes: Don't let yourself get stuck! Come to office hours, or send me a note if you have any problems.
+
+3. Instructions: Submit this assignment on paper at the beginning of class on day 4.
+
+

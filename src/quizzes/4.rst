@@ -1,0 +1,17 @@
+Quiz 4 
+######
+
+:date: 2012-12-10 
+:category: quizzes
+:tags: C.1, C.2, BI.2
+:status: draft
+
+
+1. $f(x) = 2x + 5$, $g(x) = x - 2$.
+
+   a. What is $(f \\circ g)(x)$?
+   b. What is $(g \\circ f)(x)$?
+   c. What are the domain and range of the functions in a and b?
+ 
+ 
+ 
