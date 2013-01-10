@@ -1,0 +1,10 @@
+Homework 7 
+##########
+
+:date: 2013-01-09
+:summary: Try out geogebra
+:tags: 
+
+1. Please try out the program geogebra, from geogebra.org.  Make a picture with it, and send me an attachment with that picture (either take a screenshot, or export the .ggb file.  If you are able to bring a device that will run geogebra during class, please bring it on Wednesday, and send me a note letting me know that you can.
+
+

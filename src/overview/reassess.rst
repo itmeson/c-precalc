@@ -13,5 +13,6 @@ How to reassess
 
 3. Show up. Prof. Betnel will give you a new question or questions that assess the same skills, and will use the resulting score as new evidence that you have mastered the relevant skills. Or we will use the opportunity to go over concepts/skills that you are having trouble with.
 
-.. _form: https://docs.google.com/spreadsheet/embeddedform?formkey=dE56ZnlvYnFIZnJJNURweldsZWo2WXc6MQ 
+.. _form: http://betnel.youcanbook.me/
+.. _form2: https://docs.google.com/spreadsheet/embeddedform?formkey=dE56ZnlvYnFIZnJJNURweldsZWo2WXc6MQ 
  
