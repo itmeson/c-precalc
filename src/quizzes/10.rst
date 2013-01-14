@@ -12,7 +12,7 @@ Quiz 10
    a. 1, x, 2
    b. 1, 1, x
 
-2. If a wheel of radius 10 centimeters turns through 10.7 revolutions,
- how far does the wheel travel, and by what angle (in radians) does it turn?
+2. If a wheel of radius 10 centimeters turns through 10.7 revolutions, how far
+does the wheel travel, and by what angle (in radians) does it turn?
  
  
