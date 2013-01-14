@@ -1,0 +1,18 @@
+Quiz 10 
+#######
+
+:date: 2013-01-14
+:category: quizzes
+:tags: 
+:status: draft
+
+
+1. The following are lengths of sides of right triangles.  Find the length of the missing side:
+
+   a. 1, x, 2
+   b. 1, 1, x
+
+2. If a wheel of radius 10 centimeters turns through 10.7 revolutions,
+ how far does the wheel travel, and by what angle (in radians) does it turn?
+ 
+ 
