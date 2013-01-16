@@ -4,7 +4,6 @@ Quiz 10
 :date: 2013-01-14
 :category: quizzes
 :tags: 
-:status: draft
 
 
 1. The following are lengths of sides of right triangles.  Find the length of the missing side:

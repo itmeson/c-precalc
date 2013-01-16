@@ -1,0 +1,18 @@
+Quiz 11 
+#######
+
+:date: 2013-01-16
+:category: quizzes
+:tags:
+:status: draft
+
+
+1. Calculators are NOT permitted on this quiz.
+
+Write down the values of the sine and the cosine functions  when the following angles are input:
+
+($0, \\frac{\\pi}{4}, \\frac{\\pi}{2}, \\frac{3\\pi}{4}, \\pi, \\frac{5\\pi}{4}, \\frac{3\\pi}{2}, \\frac{7\\pi}{4}$), 
+  
+
+ 
+ 
