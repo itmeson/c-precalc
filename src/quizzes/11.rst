@@ -4,7 +4,6 @@ Quiz 11
 :date: 2013-01-16
 :category: quizzes
 :tags:
-:status: draft
 
 
 1. Calculators are NOT permitted on this quiz.

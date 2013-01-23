@@ -4,7 +4,6 @@ Quiz 13
 :date: 2013-01-23
 :category: quizzes
 :tags:
-:status: draft
 
 
 1. Suppose a tire of radius 0.5 meters is spinning at the rate of 2 radians per second.  Imagine a line drawn through the center of the tire (using chalk) that is initially parallel with the ground.  Sketch a graph showing the height of the end of that line as a function of time for 20 seconds.  Then write in functional form:  f(x) =  ?
