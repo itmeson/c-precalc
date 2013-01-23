@@ -1,0 +1,13 @@
+Quiz 12 
+#######
+
+:date: 2013-01-22
+:category: quizzes
+:tags:
+:status: draft
+
+
+1. Without a calculator,  consider what happens to the function f(x) = cos(x) when the underlying unit circle has a radius of 4.  Express a new function that gives the x-coordinate of points on the circle at given radii x, and sketch the function neatly showing the  value at standard angles.
+
+ 
+ 
