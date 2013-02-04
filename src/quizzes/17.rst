@@ -1,0 +1,13 @@
+Quiz 17 
+#######
+
+:date: 2013-02-04	
+:category: quizzes
+:tags: C.8
+:status: draft
+
+
+1. Prove that $sin\\theta (csc\\theta - sin\\theta) = cos^2 \\theta$
+  
+ 
+ 
