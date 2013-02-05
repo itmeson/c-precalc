@@ -26,7 +26,7 @@ SOCIAL = (
 	 ('QuizzesFeed', SITEURL + '/feeds/quizzes.atom.xml')
 	 )
 
-DEFAULT_PAGINATION = 7
+DEFAULT_PAGINATION = 20
 DISPLAY_PAGES_ON_MENU = False
 
     

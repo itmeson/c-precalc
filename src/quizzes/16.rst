@@ -1,0 +1,11 @@
+Quiz 16 
+#######
+
+:date: 2013-01-31
+:category: quizzes
+:tags: BI.4,  C.8
+
+
+1. Given the distance between a gunner and a spotter, and the angles each measures between the line between them and the respective lines to their target, compute the dstance between the gun and the target.
+  
+
