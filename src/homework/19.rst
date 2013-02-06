@@ -1,0 +1,13 @@
+Homework 19 
+###########
+
+:date: 2013-02-11
+:summary: Logarithms
+:tags: C.9, C.10
+
+1. Section 4.2: # 7, 9, 13,33, 35, 37, 80, 89
+
+Section 4.3: #7, 9, 11, 13, 17, 19, 39, 41
+
+Section 4.5: #31, 33
+
