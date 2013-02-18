@@ -4,7 +4,6 @@ Quiz 20
 :date: 2013-02-13
 :category: quizzes
 :tags: BI.4,C.9,C.10
-:status: draft
 
 
 The mythical Hydra was a beast that was very difficult to kill -- if you cut
